@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hardc0refactions/hardc0refactions/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hardc0refactions/hardc0refactions/main/snake.svg" alt="Snake animation" />
 
 ###
 
