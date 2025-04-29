@@ -2,8 +2,6 @@
 
 <h2 align="left">Hi 👋! My name is Milan and I'm a minecraft developer, from Hungary.</h2>
 
-<h2 align="left">Founder of @QuickMC-Development</h2>
-
 ###
 
 <div align="center">
